@@ -19,7 +19,7 @@ GUACVERSION="1.5.4"
 
 # Latest Version of MySQL Connector/J if manual install is required (if libmariadb-java/libmysql-java is not available via apt)
 # Homepage ~ https://dev.mysql.com/downloads/connector/j/
-MCJVER="8.0.27"
+MCJVER="8.3.0"
 
 # Colors to use for output
 YELLOW='\033[1;33m'
